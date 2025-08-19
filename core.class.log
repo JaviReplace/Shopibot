@@ -1,0 +1,99 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492236336881@s.whatsapp.net',
+    fromMe: false,
+    id: '099EED1967730F49052A6DD1FFBA2C25',
+    participant: undefined
+  },
+  messageTimestamp: 1755608328,
+  pushName: 'Javier Villar',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '5492236336881'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_13eb8924-b810-4a95-9e84-8b9f0fc559e0',
+  keyword: 'key_fbaaf55e-3d9a-442b-bee5-677a3fdd6d31',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'fcf15a35c846608df1ccadf1a1f311fe'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492236336881@s.whatsapp.net',
+    fromMe: false,
+    id: 'B2F2F6A9DF33ECC3F0A1037E61132A2F',
+    participant: undefined
+  },
+  messageTimestamp: 1755608332,
+  pushName: 'Javier Villar',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ia',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Ia',
+  from: '5492236336881'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9e3a138d-847f-42d9-8edb-7e4d12203524',
+  keyword: 'key_f24aa3f7-69b4-47ae-b4af-e4ce1ea44c12',
+  answer: '🤖 Conectando con ChatGPT...',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'fbc5b9d41c11c8db44c8dec3653c4f4b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5492236336881@s.whatsapp.net',
+    fromMe: false,
+    id: '95DC2660D2A583DF22F0129A883715E4',
+    participant: undefined
+  },
+  messageTimestamp: 1755608341,
+  pushName: 'Javier Villar',
+  broadcast: false,
+  message: Message {
+    conversation: 'En qué podés ayudarme?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'En qué podés ayudarme?',
+  from: '5492236336881'
+}
