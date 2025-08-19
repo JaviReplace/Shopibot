@@ -2,10 +2,10 @@
   key: {
     remoteJid: '5492236336881@s.whatsapp.net',
     fromMe: false,
-    id: '6440C7CB56EA64C361780171B96EF941',
+    id: '4EA08B4473F63AC79D0C072EFB55B0FD',
     participant: undefined
   },
-  messageTimestamp: 1755611648,
+  messageTimestamp: 1755612491,
   pushName: 'Javier Villar',
   broadcast: false,
   message: Message {
@@ -20,8 +20,8 @@
   from: '5492236336881'
 }
 [QUEUE_SE_ENVIO]:  {
-  ref: 'ans_264cc971-9ec0-4563-8fcc-9faf5b250ecf',
-  keyword: 'key_5506c18c-0965-4169-b993-f5a0e5d43cad',
+  ref: 'ans_22d301d0-c70d-4aac-81f0-9f4e9242bcca',
+  keyword: 'key_c168fabc-ba4c-4015-a34c-ac6b0a7435ad',
   answer: '🤖 Conectando con ChatGPT...',
   options: {
     media: null,
@@ -35,26 +35,26 @@
     keyword: {},
     callback: true
   },
-  refSerialize: '43573ef63a833e3168c3b51286c20ff7'
+  refSerialize: '5a0898d99b6fc4bebe3c8149597bb849'
 }
 [handleMsg]:  {
   key: {
     remoteJid: '5492236336881@s.whatsapp.net',
     fromMe: false,
-    id: '41F02F057FEF7E81FFF67E9E362202C5',
+    id: 'F31B8B4335D4A5681C712384F6B0976A',
     participant: undefined
   },
-  messageTimestamp: 1755611658,
+  messageTimestamp: 1755612499,
   pushName: 'Javier Villar',
   broadcast: false,
   message: Message {
-    conversation: 'Quiero una tele de 42',
+    conversation: 'Quiero una play station',
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
       deviceListMetadataVersion: 2,
       messageSecret: [Uint8Array]
     }
   },
-  body: 'Quiero una tele de 42',
+  body: 'Quiero una play station',
   from: '5492236336881'
 }
